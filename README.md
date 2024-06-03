@@ -12,7 +12,7 @@
 |Name|Institute name|Subject|pass years|
 |--|--|--|--|
 |diploma Engineer|Baily Bridge Agriculture & Polytechnic Institute. Mirbagh, Kaunia, Rangpur|Computer Technology|2013|
-|Secondary School certificate|Secondary School certificate|ssc voc Electrical work|2008|
+|Secondary School certificate|Fulbari jachhi mian model govt. high school, Fulbari, Kurigram|ssc voc Electrical work|2008|
 
 ## Lengua 
 1. Bangla (Nativ)
