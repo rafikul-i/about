@@ -11,7 +11,7 @@
 
 |Name|Institute name|Subject|pass years|
 |--|--|--|--|
-|diploma Engineer|beili bidang agriculture and polytechnic|Computer Technology|2013|
+|diploma Engineer|Baily Bridge Agriculture & Polytechnic Institute. Mirbagh, Kaunia, Rangpur|Computer Technology|2013|
 |Secondary School certificate|Secondary School certificate|ssc voc Electrical work|2008|
 
 ## Lengua 
