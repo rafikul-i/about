@@ -5,7 +5,7 @@
  **I love all people**
 
 ## About Me
-**I am a Diploma Engineer, Computr technologycl**
+**I am a Diploma Engineer, Computr technology**
 
 ## Aducation 
 
